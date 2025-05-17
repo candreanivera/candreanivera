@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Cristina</h1>
 <h3 align="center">Software developer from Chile, living in New Zealand, passionate about learning new things</h3>
 
-- 🌱 I’m currently learning **.Net / C#**
+- 🌱 I’m currently learning **.Net / C#** / **React**
 
 - 💬 Ask me about **Cobol**
 
